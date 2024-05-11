@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Complete Project",
+    "description": "Finish the coding project by the end of the week"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "title": "Another Task",
+    "description": "Description of another task"
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "title": "Task for Daniah",
+    "description": "Description of Daniah's task"
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "title": "Another Task for Daniah",
+    "description": "Description of another task for Daniah"
+  },
+  {
+    "id": 5,
+    "userId": 3,
+    "title": "Task for Gassan",
+    "description": "Description of Gassan's task"
+  }
+]

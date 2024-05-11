@@ -1,0 +1,58 @@
+[
+  {
+    "id": 19,
+    "firstname": "Liyan",
+    "lastname": "Khan",
+    "email": "liyan@gmail.com",
+    "phone": "1234567890",
+    "password": "Liyan=123"
+  },
+  {
+    "id": 7,
+    "firstname": "Daniah",
+    "lastname": "Zain",
+    "email": "daniah@gmail.com",
+    "phone": "987654321",
+    "password": "Dania=123"
+  },
+  {
+    "id": 8,
+    "firstname": "Gassan",
+    "lastname": "Hamad",
+    "email": "gassan@gmail.com",
+    "phone": "938476457834",
+    "password": "Gassan=123"
+  },
+  {
+    "id": 22,
+    "firstname": "Hassan",
+    "lastname": "Hamad",
+    "email": "hassan@gmail.com",
+    "phone": "920986784",
+    "password": "Hassan=123"
+  },
+  {
+    "id": 5,
+    "firstname": "Malek",
+    "lastname": "Hamad",
+    "email": "malek@gmail.com",
+    "phone": "78458459340",
+    "password": "Malek=123"
+  },
+  {
+    "id": 10,
+    "firstname": "Arwa",
+    "lastname": "Hamad",
+    "email": "Arwa@gmail.com",
+    "phone": "9324987538",
+    "password": "Arwa=123"
+  },
+  {
+    "id": 6,
+    "firstname": "Yaseen",
+    "lastname": "Hamad",
+    "email": "Yaseen@gmail.com",
+    "phone": "6789765434",
+    "password": "Yaseen=123"
+  }
+]
